@@ -6,7 +6,7 @@ export const PROJECTS_DATA: ProjectItem[] = [
     slug: 'career-growth-tribe',
     title: 'Career Growth Tribe',
     client: 'Career Growth Tribe (Rajan Kumar Prasad)',
-    tagline: 'Modern digital ecosystem and automated member acquisition engine.',
+    tagline: 'Decent website with decent pages',
     category: 'Web Applications',
     categoryLabel: 'Web Application & Automation',
     image: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80',
